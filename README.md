@@ -44,7 +44,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DH3UV&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="DH3UV GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DH3UV&count_private=true&theme=radical" alt="DH3UV" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH3UV&count_private=true&theme=radical" alt="DH3UV" />
 
 ----
