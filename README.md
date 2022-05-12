@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Dhruv!</h3>
+<h3 title=""> Hey 👋, I'm Dhruv!</h3>
 
 <a href="https://www.linkedin.com">
   <img align="left" alt="Dhruv's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
