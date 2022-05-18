@@ -1,6 +1,6 @@
 <h3 title=""> Hey 👋, I'm Dhruv!</h3>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/dhruv-gorsia-4b9a82238/">
   <img align="left" alt="Dhruv's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
