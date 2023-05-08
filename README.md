@@ -43,8 +43,7 @@ A Web developer ***Enthusiast*** 🚀.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DH3UV&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="DH3UV GitHub Stats">
-----
-Credit: [DH3UV](https://github.com/DH3UV)
+
 
 
 
