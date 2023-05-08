@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/dhruv-gorsia-4b9a82238/">
   <img align="left" alt="Dhruv's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://twitter.com/dh3uvv">
   <img align="left" alt="Dhruv's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
