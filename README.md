@@ -12,8 +12,6 @@
 
 <br />
 <br />
-
-A Web developer ***Enthusiast*** 🚀.
  
 
  
