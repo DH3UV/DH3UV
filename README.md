@@ -19,8 +19,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a student in high school.
-- 🌱 I’m currently learning Python and Javascript. 
-- 🤔 My interest lies in front end web development.
+- 🌱 I’m currently learning Python.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dm617516@gmail.com](mailto:dm617516@gmail.com).
 
